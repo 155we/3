@@ -324,7 +324,7 @@ message.channel.send(`
 **${prefix}yt** [Search Term] : Searches The YouTube and Returns First 5 Results
 **${prefix}add** [Search Result Number] : adds a Song From YouTube Search To The Queue
 **${prefix}vol** [percentage] : Sets The Volume of The Music To Given Percentage
-**Onwer Bot** : <@333604437442560000> <:Harder:522886687240617985>
+**Onwer Bot** : <@333604437442560000> <:Harder:522884683898290176>
 `);
 break;
 
